@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on VisionaryDev</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on VisionaryDev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>layanmm926@gmail.com (Layan Al-Qabbani)</managingEditor>
+    <webMaster>layanmm926@gmail.com (Layan Al-Qabbani)</webMaster>
+    <copyright>© 2025 Layan Al-Qabbani</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 23:05:03 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UI/UX Design</title>
+      <link>//localhost:1313/posts/2025/sevenpost/</link>
+      <pubDate>Wed, 19 Mar 2025 23:05:03 +0300</pubDate>
+      <author>layanmm926@gmail.com (Layan Al-Qabbani)</author>
+      <guid>//localhost:1313/posts/2025/sevenpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python Importance</title>
+      <link>//localhost:1313/posts/2025/sixpost/</link>
+      <pubDate>Wed, 19 Mar 2025 22:29:16 +0300</pubDate>
+      <author>layanmm926@gmail.com (Layan Al-Qabbani)</author>
+      <guid>//localhost:1313/posts/2025/sixpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java Importance</title>
+      <link>//localhost:1313/posts/2025/fifthpost/</link>
+      <pubDate>Wed, 19 Mar 2025 22:28:05 +0300</pubDate>
+      <author>layanmm926@gmail.com (Layan Al-Qabbani)</author>
+      <guid>//localhost:1313/posts/2025/fifthpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cybersecurity in Cloud Computing</title>
+      <link>//localhost:1313/posts/2025/fourthpost/</link>
+      <pubDate>Wed, 19 Mar 2025 21:50:43 +0300</pubDate>
+      <author>layanmm926@gmail.com (Layan Al-Qabbani)</author>
+      <guid>//localhost:1313/posts/2025/fourthpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alibaba Services</title>
+      <link>//localhost:1313/posts/2025/thirdpost/</link>
+      <pubDate>Wed, 19 Mar 2025 21:14:38 +0300</pubDate>
+      <author>layanmm926@gmail.com (Layan Al-Qabbani)</author>
+      <guid>//localhost:1313/posts/2025/thirdpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Access control</title>
+      <link>//localhost:1313/posts/2025/seciondpost/</link>
+      <pubDate>Wed, 19 Mar 2025 17:37:12 +0300</pubDate>
+      <author>layanmm926@gmail.com (Layan Al-Qabbani)</author>
+      <guid>//localhost:1313/posts/2025/seciondpost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CIA triad</title>
+      <link>//localhost:1313/posts/2025/firstpost/</link>
+      <pubDate>Wed, 19 Mar 2025 17:36:48 +0300</pubDate>
+      <author>layanmm926@gmail.com (Layan Al-Qabbani)</author>
+      <guid>//localhost:1313/posts/2025/firstpost/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
